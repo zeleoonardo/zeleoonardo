@@ -3,7 +3,7 @@ Tenho 24 anos sou natural de São Pulo. sou formado em designe grafico pela EBAC
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zeleoonardo)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-leonardo-souza-905b77259/)
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/kosezieri1)
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/josezieri1)
 
 ![zeleoonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=zeleoonardo&show_icons=true&theme=dracula)
 
